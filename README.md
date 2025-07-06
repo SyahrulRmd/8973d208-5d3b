@@ -9,7 +9,7 @@
 ### Instalasi
 1. Clone repository ini
 ```bash
-git clone https://github.com/SyahrulRmd/tj-coding-test.git
+git clone https://github.com/SyahrulRmd/8973d208-5d3b
 cd sistem-manajemen-armada
 ```
 
